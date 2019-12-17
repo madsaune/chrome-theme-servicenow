@@ -1,0 +1,25 @@
+{
+  "name": "ServiceNow Theme",
+  "version": "1.0",
+  "description": "A ServiceNow branded theme for Google Chrome",
+  "theme": {
+    "colors" : {
+      "frame" : [41, 62, 64],
+      "frame_inactive": [41, 62, 64],
+      "toolbar" : [41, 62, 64],
+      "toolbar_button_icon": [129, 181, 161],
+      "bookmark_text": [255, 255, 255],
+      "background_tab": [41, 62, 64],
+      "background_tab_inactive": [41, 62, 64],
+      "tab_background_text": [255, 255, 255],
+      "tab_background_text_inactive": [255, 255, 255],
+      "omnibox_text": [41, 62, 64],
+      "omnibox_background": [129, 181, 161],
+      "button_background" : [255, 255, 255]
+    },
+    "tints" : {
+      "buttons" : [0.33, 0.5, 0.47]
+    }
+  },
+  "manifest_version": 2
+}
